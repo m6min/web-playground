@@ -7,7 +7,7 @@ This repository is a collection of small web projects I've built using HTML, CSS
 
 ### [Portfolio Site](portfolio-site/)
 
-This folder holds the source code for my personal portfolio website.
+This folder holds the source code for example of a portfolio website.
 
 * **Technologies:** HTML5, CSS3 (using Media Queries for responsiveness), JavaScript.
 * **Goal:** To create a clean, responsive user interface that works smoothly on both large and small screens.
