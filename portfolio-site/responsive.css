@@ -9,7 +9,7 @@
   .row-1,
   .row-2,
   .row-3,
-  .row-4 {
+  .row-4, .experience {
     grid-template-columns: 1fr;
     gap: 30px;
   }
@@ -77,9 +77,6 @@
   .json-div {
     display: flex;
     justify-content: center;
-  }
-  .experience {
-    grid-template-columns: 1fr;
   }
   #row3-header {
     font-size: 28px;
