@@ -62,3 +62,18 @@ i {
     outline: none;
     font-size: inherit;
 }
+
+.output-red {
+    color: var(--font-red);
+    margin-bottom: 15px;
+}
+
+.output-green {
+    color: var(--font-green);
+    margin-bottom: 30px;
+}
+
+.links {
+    text-decoration: none;
+    color: azure;
+}
