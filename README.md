@@ -45,7 +45,7 @@ This folder holds the source code for my personal portfolio website, designed to
 | **Responsiveness** | **Works good on big or small screens without problem.** |
 | **Features** | **Supports commands like `help`, `about`, `projects`. Try `sudo rm -rf` at your own risk :)** |
 
-(See the live site [here](https://m6min.github.io/web-playground/terminal-portfolio/)) 
+(See the live site [here](https://m6min.github.io/web-playground/terminal-theme-portfolio/)) 
 ---
 
 ## 🚀 Getting Started
@@ -54,7 +54,7 @@ To run this project on your local machine, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/m6min/web-playground/terminal-portfolio.git](https://github.com/m6min/web-playground/terminal-portfolio.git)
+    git clone [https://github.com/m6min/web-playground/terminal-theme-portfolio.git](https://github.com/m6min/web-playground/terminal-theme-portfolio.git)
     ```
 
 2.  Navigate to the project folder.
