@@ -20,7 +20,7 @@ body {
     display: grid;
     justify-content: center;
     gap: 1rem;
-    height: 100vh;
+    min-height: 100vh;
     background-color: transparent;
     width: 100%;
     align-items: center;
@@ -37,7 +37,7 @@ body {
     border-radius: 20px;
 }
 .card h1 {
-    font-size: 23px;
+    font-size: 20px;
     grid-column: 1/-1;
     color: var(--secondary-font);
     overflow-wrap: break-word;
@@ -70,4 +70,23 @@ footer a {
     text-decoration: none;
     border-bottom: 1px solid var(--secondary-font);
     color: var(--secondary-font);
+}
+@media (max-width: 380px) {
+    .card {
+        margin: 15px;  
+        padding: 20px; 
+        gap: 15px;     
+    }
+    .card p {
+        font-size: 13px;
+    }
+    .card h1 {
+        font-size: 15px;
+    }
+    .card i {
+        font-size: 15px; 
+    }
+    footer {
+        font-size: 10px;
+    }
 }
