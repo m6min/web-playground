@@ -5,7 +5,7 @@ This repository documents the small web projects I've built using HTML, CSS, and
 
 ### [Weather & Outfit Suggester](weather-and-outfits/)
 
-This folder holds the source code for one of the Javascript projects i like most. It is a dynamic web application that automatically detects the user's location, fetches real-time weather data, and suggests a logical outfit combination (Outerwear + Top + Bottom) based on the temperature.
+This folder holds the source code for one of the Javascript projects i coded. It is a dynamic web application that automatically detects the user's location, fetches real-time weather data, and suggests a logical outfit combination (Outerwear + Top + Bottom) based on the temperature.
 
 * **Technologies:** HTML5, CSS3 (CSS Grid & Flexbox), Vanilla JavaScript (Classes, Async/Await, Fetch API), OpenWeatherMap API, GeoJS API.
 * **Note:** This project focuses on clean architecture and using APIs. I didn't focused too much in designing, there can be updates. 
