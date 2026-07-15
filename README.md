@@ -1,6 +1,5 @@
 # 💻 Web Playground
 
-This repository documents the small web projects I've built using HTML, CSS, and JavaScript. My goal is to leave a lasting reminder of my progress for the future.
 --- 
 
 ### [Weather & Outfit Suggester](weather-and-outfits/)
